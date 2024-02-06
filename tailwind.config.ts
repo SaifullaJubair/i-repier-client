@@ -15,6 +15,7 @@ const config: Config = {
       },
     },
   },
+  // tailwind er css jeno conflict na khai ant d er sathe tai ai core plugins use kora.
   corePlugins: {
     preflight: false,
   },
